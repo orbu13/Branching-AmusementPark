@@ -1,3 +1,9 @@
 .hidden {
     display: none;
   }
+  
+  #error-mssage{
+    font-weight: 700;
+    color: red;
+    background-color: aquamarine;
+  }
